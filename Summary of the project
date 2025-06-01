@@ -1,0 +1,1 @@
+I built and trained a digit recognizer using the MNIST dataset in Python (Keras/TensorFlow), which learned to classify handwritten numbers using a neural network, and I tested it with both dataset samples and custom-drawn inputs.
